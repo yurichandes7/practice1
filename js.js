@@ -57,7 +57,7 @@ john.callbmi();
     console.log(`${john.fullName}'s BMI (${john.bmi}) is higher than ${mark.fullName}'s BMI (${mark.bmi})`)
   }*/
  ///////////////////////////////////////////////////////////////////////////
- // Coding Challenge #4
+ // Coding Challege
 
 /*
 Let's improve Steven's tip calculator even more, this time using loops!
